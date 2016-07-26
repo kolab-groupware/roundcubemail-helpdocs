@@ -142,18 +142,18 @@ to see the real numbers of your quota usage.
 Preview Pane
 ============
 If enabled, the preview pane below the message list displays the currently selected message right in the main email view.
-In order to open it, click the toggle icon |previewtoggle| in the message list footer. Clicking the same icon again will hide
+In order to open it, click the toggle icon in the message list footer. Clicking the same icon again will hide
 the preview pane.
 
-.. |previewtoggle| image:: ../../_static/_skin/preview-toggle.png
+.. image:: ../../_static/_skin/preview-toggle.png
 
 Shortcut Functions
 ------------------
 In the upper right corner of the preview pane are buttons for often used actions like reply or forward the message.
 
-The rightmost icon |button-extwin| will open the message in a new window to have a full-size view on the entire message.
+The rightmost icon will open the message in a new window to have a full-size view on the entire message.
 
-.. |button-extwin| image:: ../../_static/_skin/button-extwin.png
+.. image:: ../../_static/_skin/button-extwin.png
 
 
 Expanding the Message Headers
